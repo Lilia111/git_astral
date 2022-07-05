@@ -1,3 +1,3 @@
 #Read me
 
-it is test git for astral
+Это выполнение задания по гиту для Астрала
